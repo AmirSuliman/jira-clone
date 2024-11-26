@@ -1,3 +1,5 @@
+'use client';
+
 import { SigninCard } from '@/features/auth/components/sign-in-card';
 
 const page = () => {
